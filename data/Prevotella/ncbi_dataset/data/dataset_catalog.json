@@ -1,0 +1,134 @@
+{
+"apiVersion": "V2",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "data_summary.tsv",
+      "fileType": "DATA_TABLE",
+      "uncompressedLengthBytes": "2644"
+    },
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT",
+      "uncompressedLengthBytes": "59477"
+    }
+  ]
+},{
+  "accession": "GCF_000144405.1",
+  "files": [
+    {
+      "filePath": "GCF_000144405.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "7706075"
+    }
+  ]
+},{
+  "accession": "GCF_000242335.1",
+  "files": [
+    {
+      "filePath": "GCF_000242335.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "7967348"
+    }
+  ]
+},{
+  "accession": "GCF_001262015.1",
+  "files": [
+    {
+      "filePath": "GCF_001262015.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "7605451"
+    }
+  ]
+},{
+  "accession": "GCF_001953955.1",
+  "files": [
+    {
+      "filePath": "GCF_001953955.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "6664329"
+    }
+  ]
+},{
+  "accession": "GCF_002849795.1",
+  "files": [
+    {
+      "filePath": "GCF_002849795.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "9352051"
+    }
+  ]
+},{
+  "accession": "GCF_017347605.1",
+  "files": [
+    {
+      "filePath": "GCF_017347605.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "8329763"
+    }
+  ]
+},{
+  "accession": "GCF_018127765.1",
+  "files": [
+    {
+      "filePath": "GCF_018127765.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "7095146"
+    }
+  ]
+},{
+  "accession": "GCF_018127785.1",
+  "files": [
+    {
+      "filePath": "GCF_018127785.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "7757712"
+    }
+  ]
+},{
+  "accession": "GCF_018127825.1",
+  "files": [
+    {
+      "filePath": "GCF_018127825.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "7218877"
+    }
+  ]
+},{
+  "accession": "GCF_018127985.1",
+  "files": [
+    {
+      "filePath": "GCF_018127985.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "7053340"
+    }
+  ]
+},{
+  "accession": "GCF_018128125.1",
+  "files": [
+    {
+      "filePath": "GCF_018128125.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "7363376"
+    }
+  ]
+},{
+  "accession": "GCF_018128205.1",
+  "files": [
+    {
+      "filePath": "GCF_018128205.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "7640154"
+    }
+  ]
+},{
+  "accession": "GCF_022024115.1",
+  "files": [
+    {
+      "filePath": "GCF_022024115.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE",
+      "uncompressedLengthBytes": "8577128"
+    }
+  ]
+}]}
