@@ -1,5 +1,6 @@
-# .csv files
+# Created files
 *.csv
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
