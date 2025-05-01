@@ -116,4 +116,4 @@ This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE
 
 Feel free to explore the scripts and modify them to suit your specific dataset and research needs.
 
-If you have any questions or need further assistance, please contact (Justin Morera)[mailto:mustinjorera@gmail.com].
+If you have any questions or need further assistance, please contact [Justin Morera](mailto:mustinjorera@gmail.com).
